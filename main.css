@@ -41,10 +41,10 @@ p {
 }
 
 section {
-  height: 100vh;
+    height: 100vh;
 }
 
-/* section:nth-of-type(1) {
+section:nth-of-type(1) {
     height: 600x;
 }
 
@@ -62,7 +62,7 @@ section:nth-of-type(4) {
 
 section:nth-of-type(5) {
     height: 500px;
-} */
+}
 
 .entered {
     -webkit-animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
